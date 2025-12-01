@@ -87,6 +87,7 @@ adk api_server --allow_origins="*"
 - [Getting Started with Google ADK (PraveenKS30)](https://github.com/PraveenKS30/getting-started-google-adk/tree/main)
 - [Blog: Building Forkcast (Multi-Agent System)](https://medium.com/@parthmaradia2002/building-forkcast-how-i-created-a-multi-agent-ai-system-to-end-group-dining-chaos-forever-15d7fed85037)
 - [Blog: Agent Development Kit Tags](https://iamulya.one/tags/agent-development-kit/)
+- [Community on Neo4J and ADK](https://discuss.google.dev/t/using-googles-agent-development-kit-adk-with-mcp-toolbox-and-neo4j/187356)
 
 ### 🎥 Videos
 - [YouTube: ADK Overview](https://www.youtube.com/watch?v=hWJqBF8YgsA)
@@ -97,6 +98,7 @@ adk api_server --allow_origins="*"
 - [Impact Canada: Webinar Nov 25](https://impact.canada.ca/en/challenges/g7-govai/webinar-nov25)
 - [SSC-DSAI GitHub](https://github.com/ssc-dsai)
 - [i.ai Lex GitHub](https://github.com/i-dot-ai/lex)
+- [Healthcare Facilities](https://open.canada.ca/data/en/dataset/543fe07a-fd79-40e9-a829-ccd697526765/resource/49a82026-e60c-4a28-827e-249599e88123)
 
 ### 🔗 Other Resources
 - [Open Slum](https://open-slum.org/)
